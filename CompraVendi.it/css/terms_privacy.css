@@ -1,0 +1,60 @@
+body{
+	margin: 0;
+	background-color: #22ddaa;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.terms_privacy_content{
+	width: 60%;
+	margin: auto;
+	background-color: rgb(255, 255, 255);
+	position: relative;
+	top: 10px;
+	border-radius: 15px;
+	color: #444;
+	z-index: 1;
+}
+
+.terms_privacy_content div{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.terms_privacy_content h1, hr{
+	width: 90%;
+	margin: auto;
+	text-align: center;
+	color: #444;
+}
+
+.terms_privacy_content h1{
+	padding-top: 2%;
+	padding-bottom: 2%;
+	font-size: 35px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+}
+
+.terms_privacy_content h2{
+	width: 90%;
+	margin: auto;
+	text-align: justify;
+	padding: 2%;
+	color: #444;
+	font-weight: 500;	
+}
+
+.terms_privacy_content p{
+	width: 90%;
+	margin: auto;
+	text-align: justify;
+	padding: 2%;
+	font-size: 17px;
+	font-stretch: normal;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 300;
+	text-indent: 20px;
+}
